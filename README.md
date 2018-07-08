@@ -1,4 +1,4 @@
-### ringbuffer
+## ringbuffer
 
 Implementation of a simple ring buffer for a single producer and multiple consumers.
 
@@ -8,7 +8,7 @@ never overtake the slowest consumer, and none of the producers are not allowed t
 
 Written while learning C and based on LMAX Disruptor (https://lmax-exchange.github.io/disruptor/).
 
-#### playing around with the code
+### playing around with the code
 
 Running the tests can be done by running the build script 
 
